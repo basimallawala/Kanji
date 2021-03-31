@@ -48,7 +48,7 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "Kanji",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
