@@ -29,9 +29,9 @@ var data = {
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "0",
+    image_radius: "50",
     // Border for the image
-    image_border: "0px solid",
+    image_border: "5px solid",
     // Color of the border
     image_bordercolor: "#ba8991",
     // Filters for the image.
@@ -40,7 +40,7 @@ var data = {
     image_width: "350px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
+    image_source: "https://raw.githubusercontent.com/basimallawala/Kanji/main/img/mountain.jpg",
 
     // -------------------------------------------------
     // Enable/disable site icons
@@ -53,7 +53,7 @@ var data = {
     // -------------------------------------------------
     // Change search bar proprietis from here
     // Search bar placeholder
-    search_placeholder: "Search here",
+    search_placeholder: "Surf the web...",
     // Search engine
     // Possible choices: (case sensitive)
     // google
@@ -62,6 +62,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "duckduckgo"
+    search_engine: "ecosia"
 
 }
