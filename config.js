@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "Good night.", // From 23:00 to 5:00
+    g2: "Good morning!", // Until 12:00
+    g3: "Hello.", // Until 17:00
+    g4: "Good night.", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -29,7 +29,7 @@ var data = {
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "50%",
+    image_radius: "0%",
     // Border for the image
     image_border: "3px solid",
     // Color of the border
@@ -62,6 +62,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "ecosia"
+    search_engine: "google"
 
 }
